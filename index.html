@@ -166,27 +166,36 @@
 </head>
 <body>
 
-
             <div class="image-container">
                 <!-- Main large image -->
-                <img src="wooden-pagoda-16.jpg" alt="Main Image" class="main-image">
-                
-                <!-- Button 1 -->
-                <div class="info-button" style="top: 20%; left: 35%;" data-tooltip="tooltip1">1</div>
-                
-                <!-- Button 2 -->
-                <div class="info-button" style="top: 40%; left: 60%;" data-tooltip="tooltip2">2</div>
-                
-                <!-- Button 3 -->
-                <div class="info-button" style="top: 70%; left: 20%;" data-tooltip="tooltip3">3</div>
+                <div class="tooltip-container">
+                        <object data="img/pagoda-top-illo.svg" type="image/svg+xml" class="d-none d-md-block w-100"></object>
+                        <span class="tooltip">Legendary versions</span>
+                    </div>
+                    
+                    <div class="tooltip-container">
+                        <object data="img/pagoda-top-illo-m.svg" type="image/svg+xml" class="d-md-none w-100"></object>
+                        <span class="tooltip">Mobile view</span>
+                    </div>
+                <!-- Button 5 -->
+                <div class="info-button" style="top: 30%; left: 40%;" data-tooltip="tooltip5">5</div>
                 
                 <!-- Button 4 -->
-                <div class="info-button" style="top: 50%; left: 40%;" data-tooltip="tooltip4">4</div>
+                <div class="info-button" style="top: 35%; left: 40%;" data-tooltip="tooltip4">4</div>
+                
+                <!-- Button 3 -->
+                <div class="info-button" style="top: 42%; left: 40%;" data-tooltip="tooltip3">3</div>
+                
+                <!-- Button 2 -->
+                <div class="info-button" style="top: 49%; left: 40%;" data-tooltip="tooltip2">2</div>
+
+                <!-- Button 1 -->
+                <div class="info-button" style="top: 57%; left: 40%;" data-tooltip="tooltip1">1</div>
                 
                 <!-- Tooltip 1 -->
                 <div class="tooltip" id="tooltip1">
                     <span class="close-tooltip">&times;</span>
-                    <img src="floor3-pic.jpg" alt="Detail 1">
+                    <img src="img/floor3-pic.jpg" alt="Detail 1">
                     <h3>Feature One</h3>
                     <p>This is detailed information about the first feature. Click anywhere outside to close this tooltip.</p>
                 </div>
@@ -196,7 +205,7 @@
                     <span class="close-tooltip">&times;</span>
                     <div class="video-container">
                         <video autoplay loop muted playsinline>
-                            <source src="floor5-vid.mp4" type="video/mp4">
+                            <source src="assets/floor5-vid.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -327,5 +336,109 @@
     });
 });
     </script>
+
+    <header class="container-fluid m-0 p-0">
+            <div class="row g-0">
+                <div class="col-12">
+                    <video playsinline loop autoplay muted class="pt-4 w-100">
+                        <source src="assets/top-pagoda-loop.mp4" type="video/mp4" />
+                        <source src="video/cover.ogg" type="video/ogg" />
+                        <source src="video/cover.webm" type="video/webm" />
+                    </video>
+                </div>
+            </div>
+        </header>
+        
+        <section class="container-fluid m-0 p-0">
+            <div class="row g-0">
+                <div class="col-11 col-md-8 col-lg-6 mx-auto">
+                    <h1 class="text-center mt-5">Godzilla: evolución de un monstruo</h1>
+                    
+                    <h4 class="text-center fs-6 my-4 text-uppercase"><a href="https://www.scmp.com/author/lau-ka-kuen">Por Lau Ka-kuen</a> and <a href="https://www.scmp.com/author/adolfo-arranz">Adolfo Arranz</a> <span>Mayo 29, 2019</span></h4>
+                </div>
+                
+                <div class="clearfix"></div>
+
+                <div class="col-9 col-md-7 col-lg-5 mx-auto">
+                    <p class="lead">Sesenta y cinco años después de que Godzilla pisara por primera vez nuestras pantallas en la película japonesa de 1954, el monstruo radiactivo ha vuelto. La última versión estadounidense presenta al monstruo como una fuerza de destrucción imposiblemente masiva generada por ordenador, muy lejos de los humildes comienzos del monstruo como un hombre con un traje de goma que destrozaba maquetas de ciudades de madera de balsa. Durante estas seis décadas y media, Godzilla ha sufrido numerosas transformaciones</p>
+
+                    <div class="tooltip-container text-center">
+                        <object data="svg/gojira.svg" type="image/svg+xml" class="mx-5 my-3"></object>
+                        <span class="tooltip">Godzilla name origin</span>
+                    </div>
+                    
+                    <p>El nombre de Godzilla es una transliteración de <em>Gojira</em> (ゴジラ), una combinación de dos palabras japonesas: <em>gorira</em> (ゴリラ), que significa "gorila", y <em>kujira</em> (鯨 or クジラ), que significa "ballena".</p>
+
+                    <hr class="w-25 mx-auto my-5" />
+
+                    <h2 class="fs-5">Su diseño está inspirado en tres dinosaurios prehistóricos</h2>
+
+                    <div class="tooltip-container text-center">
+                        <object data="svg/design.svg" type="image/svg+xml" class="my-5"></object>
+                        <span class="tooltip">Design inspirations</span>
+                    </div>
+
+                    <div class="row my-5 text-muted">
+                        <div class="col-4 col-md-3 align-self-center">
+                            <p class="pe-2">Historia relacionada</p>
+                        </div>
+
+                        <div class="col-8 col-md-9 border-start">
+                            <p class="px-2">
+                                <span class="date">Mayo 22, 2019</span> <br />
+                                <a href="https://www.scmp.com/lifestyle/entertainment/article/3011267/top-10-godzilla-films-japanese-series-ahead-king-monsters" class="headline">Top 10 Godzilla films from the Japanese series ahead of King of the Monsters cinema release</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="tooltip-container">
+                        <object data="svg/legendary.svg" type="image/svg+xml" class="d-none d-md-block w-100"></object>
+                        <span class="tooltip">Legendary versions</span>
+                    </div>
+                    
+                    <div class="tooltip-container">
+                        <object data="svg/legendary_m2.svg" type="image/svg+xml" class="d-md-none w-100"></object>
+                        <span class="tooltip">Mobile view</span>
+                    </div>
+                </div>
+
+                <div class="col-9 col-md-7 col-lg-5 mx-auto">
+                    <hr class="w-25 mx-auto my-5" />
+                    
+                    <h3 class="fs-5 text-center my-5">El origen</h3>
+
+                    <p>Godzilla fue creado en 1954 por Tomoyuki Tanaka para ilustrar el terror que sintieron los japoneses tras los bombardeos atómicos de Hiroshima y Nagasaki. El cineasta quería simbolizar la venganza de la naturaleza.</p>
+                    
+                    <div class="tooltip-container text-center">
+                        <object data="svg/origin.svg" type="image/svg+xml" class="mx-sm-4 mx-md-3 mx-lg-5 my-5"></object>
+                        <span class="tooltip">Origin story</span>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="tooltip-container">
+                        <object data="svg/g_body.svg" type="image/svg+xml" class="d-none d-md-block w-100"></object>
+                        <span class="tooltip">Body evolution</span>
+                    </div>
+                    
+                    <div class="tooltip-container">
+                        <object data="svg/g_body_m.svg" type="image/svg+xml" class="d-md-none w-100"></object>
+                        <span class="tooltip">Mobile view</span>
+                    </div>
+               </div>
+
+                <div class="col-9 col-md-7 col-lg-5 mx-auto">
+                    <hr class="w-25 mx-auto my-5" />
+
+                    <h3 class="fs-5 text-center my-5">Mi proceso</h3>
+
+                    <p>A continuación explica cómo resolviste la copia parcial de <a href="https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/">esta infografía digital</a>. Hazlo considerando un mínimo de tres pasos y un máximo de seis. Intenta replicar el estilo original de las gráficas figurativas ya incluidas en la infografía original para reemplazar las fotografías que siguen.</p>
+                    
+                    <div id="proceso" class="my-5"></div>
+                </div>
+            </div>
+        </section>
 </body>
 </html>
