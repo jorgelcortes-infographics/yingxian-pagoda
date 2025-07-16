@@ -11,19 +11,22 @@
 	.st5{fill:none;}
 	.st6{font-family:'Roboto-Bold';}
 	.st7{font-size:24px;}
-	.st8{font-size:16px;}
-	.st9{font-size:60px;}
-	.st10{fill:#DD531C;}
-	.st11{font-size:48px;}
-	.st12{font-size:14px;}
-	.st13{fill:#717071;}
-	.st14{fill:#FFFFFF;}
+	.st8{font-size:60px;}
+	.st9{fill:#DD531C;}
+	.st10{font-size:48px;}
+	.st11{fill:#717071;}
+	.st12{font-size:18.8425px;}
+	.st13{fill:#FFFFFF;}
+	.st14{font-size:16.4872px;}
 	.st15{fill:none;stroke:#E95513;stroke-miterlimit:10;}
 	.st16{fill:#E95513;}
-	.st17{font-size:15.366px;}
+	.st17{font-size:19.366px;}
+	.st18{font-size:20px;}
+	.st19{font-size:28px;}
+	.st20{fill:#1283E5;}
 </style>
 <g id="Layer_1">
-	<image style="overflow:visible;" width="802" height="2271" xlink:href="CB7F100B7640C511.jpg"  transform="matrix(1 0 0 1 -2 0)">
+	<image style="overflow:visible;" width="801" height="2271" xlink:href="CB7F100B7640C512.jpg"  transform="matrix(1 0 0 1 -2 0)">
 	</image>
 </g>
 <g id="Layer_2">
@@ -34,63 +37,59 @@
 		<text transform="matrix(1 0 0 1 195.0188 1826.5299)" class="st0 st3 st4">The wooden pagoda is made with the equivalent of</text>
 	</g>
 	<g>
-		<rect x="79.1" y="1947.4" class="st5" width="638.3" height="55.5"/>
-		<text transform="matrix(1 0 0 1 86.0969 1960.8771)"><tspan x="0" y="0" class="st0 st3 st4">The 50 million trees used to build the pagoda are equivalent to filling the entire </tspan><tspan x="84.6" y="21.6" class="st0 st3 st4">area of the Chaoyang district with trees, and a little more.</tspan></text>
+		<rect x="172" y="1947.4" class="st5" width="452.5" height="67.6"/>
+		<text transform="matrix(1 0 0 1 203.6633 1960.8771)"><tspan x="0" y="0" class="st0 st3 st4">The 50 million trees used to build the pagoda are </tspan><tspan x="-8.2" y="21.6" class="st0 st3 st4">equivalent to filling the entire area of the Chaoyang </tspan><tspan x="54.5" y="43.2" class="st0 st3 st4">district with trees, and a little more.</tspan></text>
 	</g>
-	<text transform="matrix(1 0 0 1 520.5383 2212.3516)"><tspan x="0" y="0" class="st0 st3 st4">Andorra</tspan><tspan x="-25.2" y="21.6" class="st0 st3 st4">(Country area)</tspan></text>
-	<text transform="matrix(1 0 0 1 509.1428 2060.3701)" class="st0 st6 st7">468 km²</text>
-	<text transform="matrix(1 0 0 1 333.5989 2212.3516)"><tspan x="0" y="0" class="st0 st3 st4">Chaoyang District</tspan><tspan x="14.7" y="21.6" class="st0 st3 st4">Beijing, China.</tspan></text>
-	<text transform="matrix(1 0 0 1 361.1848 2055.7227)" class="st0 st6 st7">470 km²</text>
-	<text transform="matrix(1 0 0 1 208.5774 2212.3516)"><tspan x="0" y="0" class="st0 st3 st4">50 million</tspan><tspan x="18.9" y="21.6" class="st0 st3 st4">trees</tspan></text>
-	<text transform="matrix(1 0 0 1 204.6711 2051.0723)" class="st0 st6 st7">500 km²</text>
-	<rect x="662.3" y="732.9" class="st5" width="134" height="142.4"/>
-	<text transform="matrix(1 0 0 1 662.3284 744.8595)"><tspan x="0" y="0" class="st0 st3 st8">Cats and birds </tspan><tspan x="0" y="19.2" class="st0 st3 st8">serve as natural </tspan><tspan x="0" y="38.4" class="st0 st3 st8">guardians by </tspan><tspan x="0" y="57.6" class="st0 st3 st8">feeding on mice </tspan><tspan x="0" y="76.8" class="st0 st3 st8">and wood-boring </tspan><tspan x="0" y="96" class="st0 st3 st8">insects at the </tspan><tspan x="0" y="115.2" class="st0 st3 st8">pagoda.</tspan></text>
+	<text transform="matrix(1 0 0 1 520.5383 2232.3516)"><tspan x="0" y="0" class="st0 st3 st4">Andorra</tspan><tspan x="-25.2" y="21.6" class="st0 st3 st4">(Country area)</tspan></text>
+	<text transform="matrix(1 0 0 1 509.1428 2080.3701)" class="st0 st6 st7">468 km²</text>
+	<text transform="matrix(1 0 0 1 333.5989 2232.3516)"><tspan x="0" y="0" class="st0 st3 st4">Chaoyang District</tspan><tspan x="14.7" y="21.6" class="st0 st3 st4">Beijing, China.</tspan></text>
+	<text transform="matrix(1 0 0 1 361.1848 2075.7227)" class="st0 st6 st7">470 km²</text>
+	<text transform="matrix(1 0 0 1 208.5774 2232.3516)"><tspan x="0" y="0" class="st0 st3 st4">50 million</tspan><tspan x="18.9" y="21.6" class="st0 st3 st4">trees</tspan></text>
+	<text transform="matrix(1 0 0 1 204.6711 2071.0723)" class="st0 st6 st7">500 km²</text>
+	<rect x="5.3" y="1670.9" class="st5" width="148.7" height="200.1"/>
+	<text transform="matrix(1 0 0 1 5.3293 1684.3594)"><tspan x="0" y="0" class="st0 st3 st4">Cats and birds </tspan><tspan x="0" y="21.6" class="st0 st3 st4">serve as natural </tspan><tspan x="0" y="43.2" class="st0 st3 st4">guardians by </tspan><tspan x="0" y="64.8" class="st0 st3 st4">feeding on mice </tspan><tspan x="0" y="86.4" class="st0 st3 st4">and wood-boring </tspan><tspan x="0" y="108" class="st0 st3 st4">insects at the </tspan><tspan x="0" y="129.6" class="st0 st3 st4">pagoda.</tspan></text>
+	<rect x="210" y="1617.3" class="st5" width="389.9" height="137.9"/>
+	<text transform="matrix(1 0 0 1 223.3538 1630.7677)"><tspan x="0" y="0" class="st0 st3 st4">After the deification of the Buddha, Buddhism </tspan><tspan x="-8.3" y="21.6" class="st0 st3 st4">increased the content of the blessing that could </tspan><tspan x="16.9" y="43.2" class="st0 st3 st4">be obtained from worshiping the Buddha. </tspan><tspan x="-9.8" y="64.8" class="st0 st3 st4">Worshiping of the Buddha gradually became the </tspan><tspan x="-3.8" y="86.4" class="st0 st3 st4">most important and basic element of Buddhist </tspan><tspan x="143.4" y="108" class="st0 st3 st4">activities.</tspan></text>
 	<g>
-		<rect x="662.3" y="964.4" class="st5" width="134.3" height="61.8"/>
-		<text transform="matrix(1 0 0 1 662.3284 976.4259)"><tspan x="0" y="0" class="st0 st3 st8">Chinese swallow </tspan><tspan x="0" y="16.3" class="st0 st3 st8">known as Mayan</tspan></text>
-	</g>
-	<rect x="121.6" y="455.5" class="st5" width="197" height="120"/>
-	<text transform="matrix(1 0 0 1 158.8167 467.4908)"><tspan x="0" y="0" class="st0 st3 st8">The top of the pagoda, </tspan><tspan x="-34.1" y="19.2" class="st0 st3 st8">known as a finial, is formed </tspan><tspan x="-28.3" y="38.4" class="st0 st3 st8">by a series of iron or stone </tspan><tspan x="-0.8" y="57.6" class="st0 st3 st8">components that carry </tspan><tspan x="3" y="76.8" class="st0 st3 st8">special Buddhism and </tspan><tspan x="32.8" y="96" class="st0 st3 st8">cultural meanings</tspan></text>
-	<rect x="33.7" y="184" class="st5" width="733.5" height="139.2"/>
-	<text transform="matrix(1 0 0 1 66.97 202.0084)"><tspan x="0" y="0" class="st0 st3 st7">The Yingxian Pagoda, also known as the Sakyamuni Pagoda of </tspan><tspan x="-24.5" y="29.7" class="st0 st3 st7">Fogong Temple, was built in 1056 during the Liao Dynasty, it stands </tspan><tspan x="-16.5" y="59.4" class="st0 st3 st7">as the oldest and tallest surviving all-wooden pagoda in the world.</tspan><tspan x="-17.1" y="89.2" class="st0 st3 st7">While it appears to have five stories and six eaves, it contains nine </tspan><tspan x="117.7" y="118.9" class="st0 st3 st7">layers—five visible and four hidden ones.</tspan></text>
-	<rect x="199.6" y="1617.3" class="st5" width="410.6" height="137.9"/>
-	<text transform="matrix(1 0 0 1 223.3538 1630.7672)"><tspan x="0" y="0" class="st0 st3 st4">After the deification of the Buddha, Buddhism </tspan><tspan x="-20.4" y="21.6" class="st0 st3 st4">increased the content of the blessing that could be </tspan><tspan x="-18.5" y="43.2" class="st0 st3 st4">obtained from worshiping the Buddha. Worshiping </tspan><tspan x="14.8" y="64.8" class="st0 st3 st4">of the Buddha gradually became the most </tspan><tspan x="-21.4" y="86.4" class="st0 st3 st4">important and basic element of Buddhist activities.</tspan></text>
-	<g>
-		<text transform="matrix(1 0 0 1 457.9924 469.7531)"><tspan x="0" y="0" class="st0 st3 st8">Total height</tspan><tspan x="0" y="19.2" class="st0 st6 st8">67.31 m</tspan></text>
+		<text transform="matrix(1 0 0 1 33.4192 137.1632)" class="st0 st1 st8">As strong as 50 million trees</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 63.217 371.2296)" class="st0 st3 st7">Click the numbers to know more about the Buddhas chambers</text>
+		<text transform="matrix(1 0 0 1 193.1223 60.1632)" class="st9 st6 st10">Sakyamuni Pagoda</text>
 	</g>
+	<polygon class="st5" points="791.1,611.3 635,611.3 670,786 791.1,786 	"/>
+	<text transform="matrix(1 0 0 1 703.217 624.7657)"><tspan x="0" y="0" class="st0 st3 st4">Sakyamuni </tspan><tspan x="-55.5" y="21.6" class="st0 st3 st4">Pagoda is located </tspan><tspan x="-15.8" y="43.2" class="st0 st3 st4">in the temple </tspan><tspan x="-18.9" y="64.8" class="st0 st3 st4">compound of </tspan><tspan x="-37.2" y="86.4" class="st0 st3 st4">Fogong Temple </tspan><tspan x="-30.3" y="108" class="st0 st3 st4">in Ying County, </tspan><tspan x="4.6" y="129.6" class="st0 st3 st4">Shuozhou, </tspan><tspan x="29.6" y="151.2" class="st0 st3 st4">Shanxi.</tspan></text>
+	<text transform="matrix(1 0 0 1 636.8975 507.8774)" class="st11 st3 st12">SHANXI</text>
+	<path class="st0" d="M779.4,435.4H690c-1.5,0-2.8-1.3-2.8-2.8v-13.5c0-1.5,1.3-2.8,2.8-2.8h89.4c1.5,0,2.8,1.3,2.8,2.8v13.5
+		C782.3,434.1,781,435.4,779.4,435.4z"/>
 	<g>
-		<text transform="matrix(1 0 0 1 33.4192 137.1632)" class="st0 st1 st9">As strong as 50 million trees</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 332.5481 516.6119)" class="st0 st6 st8">11 m</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 193.1223 60.1632)" class="st10 st6 st11">Sakyamuni Pagoda</text>
-	</g>
-	<rect x="568.6" y="557.3" class="st5" width="207.5" height="75.9"/>
-	<text transform="matrix(1 0 0 1 573.3918 567.7657)"><tspan x="0" y="0" class="st0 st3 st12">Sakyamuni Pagoda is located in </tspan><tspan x="-2.6" y="16.8" class="st0 st3 st12">the temple compound of Fogong </tspan><tspan x="27.9" y="33.6" class="st0 st3 st12">Temple in Ying County, </tspan><tspan x="42.2" y="50.4" class="st0 st3 st12">Shuozhou, Shanxi.</tspan></text>
-	<text transform="matrix(1 0 0 1 653.5723 488.7944)" class="st13 st3 st8">SHANXI</text>
-	<path class="st0" d="M774.2,427.2h-75.1c-1.5,0-2.8-1.3-2.8-2.8v-10.6c0-1.5,1.3-2.8,2.8-2.8h75.1c1.5,0,2.8,1.3,2.8,2.8v10.6
-		C777,425.9,775.7,427.2,774.2,427.2z"/>
-	<g>
-		<text transform="matrix(1 0 0 1 698.4629 425.0811)" class="st14 st6 st12">Shouzhou</text>
+		<text transform="matrix(1 0 0 1 689.7637 432.8457)" class="st13 st6 st14">Shouzhou</text>
 	</g>
 	<g>
 		<g>
-			<polyline class="st15" points="696.3,420 681.3,420 681.3,449.1 			"/>
+			<polyline class="st15" points="687.2,426.9 669.5,426.9 669.5,461.1 			"/>
 			<g>
-				<path class="st16" d="M677.5,449.1c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8c0-2.1-1.7-3.8-3.8-3.8S677.5,447,677.5,449.1z"/>
+				<path class="st16" d="M665.8,461.1c0,2.1,1.7,3.8,3.8,3.8s3.8-1.7,3.8-3.8c0-2.1-1.7-3.8-3.8-3.8S665.8,459,665.8,461.1z"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 291.6292 1786.8156)" class="st10 st6 st7">50 MILLIONS TREES</text>
+		<text transform="matrix(1 0 0 1 291.6292 1786.8156)" class="st9 st6 st7">50 MILLIONS TREES</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 662.3274 718.0167)" class="st10 st6 st17">PROTECTORS</text>
+		<text transform="matrix(1 0 0 1 5.3274 1569.0167)" class="st9 st6 st17">PROTECTORS</text>
+	</g>
+	<rect x="29" y="455.5" class="st5" width="265.7" height="120"/>
+	<text transform="matrix(1 0 0 1 78.6624 470.4908)"><tspan x="0" y="0" class="st0 st3 st18">The top of the pagoda is </tspan><tspan x="8.9" y="24" class="st0 st3 st18">formed by iron or stone </tspan><tspan x="15.3" y="48" class="st0 st3 st18">components that carry </tspan><tspan x="20" y="72" class="st0 st3 st18">special Buddhism and </tspan><tspan x="57.2" y="96" class="st0 st3 st18">cultural meanings</tspan></text>
+	<rect x="33.7" y="184" class="st5" width="733.5" height="139.2"/>
+	<text transform="matrix(1 0 0 1 78.9593 205.0084)"><tspan x="0" y="0" class="st0 st3 st19">The Yingxian Pagoda, also known as the Sakyamuni </tspan><tspan x="-20.8" y="33.6" class="st0 st3 st19">Pagoda of Fogong Temple, was built in 1056 during the </tspan><tspan x="-28.8" y="67.2" class="st0 st3 st19">Liao Dynasty, it stands as the oldest and tallest surviving </tspan><tspan x="124" y="100.8" class="st0 st3 st19">all-wooden pagoda in the world.</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 457.9924 469.7531)"><tspan x="0" y="0" class="st0 st3 st18">Total</tspan><tspan x="0" y="24" class="st0 st3 st18">height</tspan><tspan x="0" y="48" class="st0 st6 st18">67.31 m</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 63.217 371.2296)" class="st20 st3 st7">Click the numbers to know more about the Buddhas chambers</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 323.4993 516.6119)" class="st0 st6 st18">11 m</text>
 	</g>
 </g>
 </svg>
