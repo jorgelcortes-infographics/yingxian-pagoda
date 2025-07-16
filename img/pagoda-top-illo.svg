@@ -3,13 +3,14 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 3892" style="enable-background:new 0 0 1920 3892;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700'; 'https://fonts.googleapis.com/css2?family=Merriweather:300,400,700,900');
 	.st0{fill:none;}
 	.st1{fill:#231815;}
-	.st2{font-family:'Roboto-Regular';}
+	.st2{font-family:'Roboto';font-weight: 300;}
 	.st3{font-size:24px;}
-	.st4{font-family:'Merriweather120pt-Bold';}
+	.st4{font-family:'Merriweather';font-weight: 700;}
 	.st5{font-size:80px;}
-	.st6{font-family:'Roboto-Bold';}
+	.st6{font-family:'Roboto';font-weight: 700;}
 	.st7{font-size:24.7688px;}
 	.st8{font-size:50px;}
 	.st9{font-size:30px;}
