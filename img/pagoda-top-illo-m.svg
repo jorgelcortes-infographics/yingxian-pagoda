@@ -3,7 +3,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 2271" style="enable-background:new 0 0 800 2271;" xml:space="preserve">
 <style type="text/css">
-	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700'; 'https://fonts.googleapis.com/css2?family=Merriweather:300,400,700,900');
+	@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700';'https://fonts.googleapis.com/css2?family=Merriweather:300,400,700,900');
 	.st0{fill:#231815;}
 	.st1{font-family:'Merriweather';font-weight: 700;}
 	.st2{font-size:40px;}
@@ -26,7 +26,7 @@
 	.st19{fill:#1283E5;}
 </style>
 <g id="Layer_1">
-	<image style="overflow:visible;" width="801" height="2271" xlink:href="CB7F100B7640C512.jpg"  transform="matrix(1 0 0 1 -2 0)">
+	<image style="overflow:visible;" width="801" height="2271" xlink:href="CB7F100B7640C510.jpg"  transform="matrix(1 0 0 1 -2 0)">
 	</image>
 </g>
 <g id="Layer_2">
@@ -47,7 +47,7 @@
 	<text transform="matrix(1 0 0 1 204.2375 2222.3516)"><tspan x="0" y="0" class="st0 st3 st6">50 million</tspan><tspan x="21" y="21.6" class="st0 st3 st6">trees</tspan></text>
 	<text transform="matrix(1 0 0 1 204.6711 2071.0723)" class="st0 st7 st8">500 km²</text>
 	<rect x="5.3" y="1670.9" class="st5" width="204.7" height="200.1"/>
-	<text transform="matrix(1 0 0 1 5.3293 1687.3594)"><tspan x="0" y="0" class="st0 st3 st4">Cats and birds serve </tspan><tspan x="0" y="26.4" class="st0 st3 st4">as natural guardians </tspan><tspan x="0" y="52.8" class="st0 st3 st4">by feeding on mice </tspan><tspan x="0" y="79.2" class="st0 st3 st4">and wood-boring </tspan><tspan x="0" y="105.6" class="st0 st3 st4">insects at the </tspan><tspan x="0" y="132" class="st0 st3 st4">pagoda.</tspan></text>
+	
 	<rect x="258" y="1616.3" class="st5" width="293.9" height="137.9"/>
 	<text transform="matrix(1 0 0 1 277.3274 1632.7677)"><tspan x="0" y="0" class="st0 st3 st4">After the deification of the </tspan><tspan x="-14.4" y="26.4" class="st0 st3 st4">Buddha, Buddhism increased </tspan><tspan x="-2.4" y="52.8" class="st0 st3 st4">the content of the blessing </tspan><tspan x="-7.7" y="79.2" class="st0 st3 st4">that could be obtained from </tspan><tspan x="12.7" y="105.6" class="st0 st3 st4">worshiping the Buddha.</tspan></text>
 	<g>
@@ -75,9 +75,7 @@
 	<g>
 		<text transform="matrix(1 0 0 1 282.4338 1786.8156)" class="st10 st7 st16">50 MILLIONS TREES</text>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 5.3274 1569.0167)" class="st10 st7 st17">PROTECTORS</text>
-	</g>
+	
 	<rect x="9" y="447.5" class="st5" width="289.7" height="147.5"/>
 	<text transform="matrix(1 0 0 1 78.8723 463.9908)"><tspan x="0" y="0" class="st0 st3 st4">The top of the pagoda, </tspan><tspan x="-47" y="26.4" class="st0 st3 st4">known as a finial, is formed </tspan><tspan x="-59.8" y="52.8" class="st0 st3 st4">by iron or stone components </tspan><tspan x="-52" y="79.2" class="st0 st3 st4">that carry special Buddhism </tspan><tspan x="-2.7" y="105.6" class="st0 st3 st4">and cultural meanings.</tspan></text>
 	<rect x="33.7" y="184" class="st5" width="733.5" height="139.2"/>
